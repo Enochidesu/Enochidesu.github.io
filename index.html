@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Winter Garden Project — Glacia Authenticator, an open-source Windows app for two-step verification codes.">
+  <title>Winter Garden Project · Glacia Authenticator</title>
+  <style>
+    :root { color-scheme: light dark; font-family: system-ui, sans-serif; background: #eef7fc; color: #193b4e; }
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; }
+    main { box-sizing: border-box; width: min(680px, calc(100% - 40px)); padding: 40px; border: 1px solid #d3e5ef; border-radius: 24px; background: #fff; }
+    .eyebrow { color: #18779b; letter-spacing: .16em; font-size: .8rem; }
+    h1 { margin: 16px 0; font-size: clamp(1.8rem, 5vw, 2.7rem); }
+    p { line-height: 1.75; }
+    a { color: #176e92; text-underline-offset: 4px; }
+    nav { display: flex; gap: 20px; flex-wrap: wrap; margin-top: 28px; }
+    .visit { display: inline-block; padding: 13px 20px; background: #176e92; color: #fff; border-radius: 12px; text-decoration: none; margin: 12px 0; }
+    footer { margin-top: 30px; font-size: .85rem; }
+    @media (prefers-color-scheme: dark) {
+      :root { background: #101f2b; color: #e2f3fb; }
+      main { background: #192f3d; border-color: #2a485a; }
+      a, .eyebrow { color: #9cdef3; }
+      .visit { background: #9cdef3; color: #123244; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="eyebrow">WINTER GARDEN PROJECT</div>
+    <h1>Glacia Authenticator</h1>
+    <p>An open-source Windows app for your two-step verification codes. Glacia keeps your keys in an encrypted local vault, works offline, and offers optional encrypted Google Drive sync across your computers.</p>
+    <p>Google sign-in identifies your account. Optional sync uses Google Drive's private application data folder to store encrypted vault backups.</p>
+    <a class="visit" href="/glacia-authenticator/">Visit Glacia Authenticator</a>
+    <nav aria-label="Project links">
+      <a href="/glacia-authenticator/privacy.html">Privacy policy</a>
+      <a href="/glacia-authenticator/terms.html">Terms of Use</a>
+      <a href="https://github.com/Enochidesu/glacia-authenticator">Source code</a>
+    </nav>
+    <footer>Created by Enochi Sasaina · <a href="mailto:enochi3317@gmail.com">Contact</a></footer>
+  </main>
+</body>
+</html>
