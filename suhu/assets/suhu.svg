@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SUHU — Berita dan Dokumentasi</title>
+  <desc id="desc">A gold camera and ivory news page on an emerald rounded square.</desc>
+  <defs>
+    <linearGradient id="emerald" x1="70" y1="30" x2="444" y2="490" gradientUnits="userSpaceOnUse"><stop stop-color="#12866c"/><stop offset=".36" stop-color="#095746"/><stop offset="1" stop-color="#04382f"/></linearGradient>
+    <linearGradient id="edge" x1="256" y1="22" x2="256" y2="490" gradientUnits="userSpaceOnUse"><stop stop-color="#5bc6a8" stop-opacity=".75"/><stop offset=".27" stop-color="#1f8d73" stop-opacity=".18"/><stop offset="1" stop-color="#1a7f67" stop-opacity=".55"/></linearGradient>
+    <linearGradient id="paper" x1="113" y1="92" x2="323" y2="351" gradientUnits="userSpaceOnUse"><stop stop-color="#fffdf4"/><stop offset=".6" stop-color="#f5ecd7"/><stop offset="1" stop-color="#ded0ae"/></linearGradient>
+    <linearGradient id="gold" x1="145" y1="210" x2="390" y2="418" gradientUnits="userSpaceOnUse"><stop stop-color="#fff0bd"/><stop offset=".22" stop-color="#e7c477"/><stop offset=".46" stop-color="#c99a46"/><stop offset=".7" stop-color="#f4d48a"/><stop offset="1" stop-color="#a87930"/></linearGradient>
+    <linearGradient id="goldTop" x1="246" y1="197" x2="246" y2="267" gradientUnits="userSpaceOnUse"><stop stop-color="#ffedb5"/><stop offset=".55" stop-color="#e1b461"/><stop offset="1" stop-color="#b78a3d"/></linearGradient>
+    <linearGradient id="rim" x1="231" y1="251" x2="335" y2="388" gradientUnits="userSpaceOnUse"><stop stop-color="#fff4ce"/><stop offset=".27" stop-color="#ddb25f"/><stop offset=".54" stop-color="#a87526"/><stop offset=".78" stop-color="#f9db91"/><stop offset="1" stop-color="#b78b40"/></linearGradient>
+    <radialGradient id="lens" cx=".34" cy=".25" r=".8"><stop stop-color="#379c85"/><stop offset=".38" stop-color="#0e6957"/><stop offset=".73" stop-color="#064538"/><stop offset="1" stop-color="#012b24"/></radialGradient>
+    <radialGradient id="glass" cx=".37" cy=".26" r=".76"><stop stop-color="#51b19a"/><stop offset=".37" stop-color="#126a57"/><stop offset=".8" stop-color="#032e26"/><stop offset="1" stop-color="#011f1b"/></radialGradient>
+    <linearGradient id="glint" x1="239" y1="272" x2="293" y2="318" gradientUnits="userSpaceOnUse"><stop stop-color="#e0fff4" stop-opacity=".64"/><stop offset="1" stop-color="#c2ffe9" stop-opacity="0"/></linearGradient>
+    <filter id="depth" x="-15%" y="-15%" width="140%" height="140%" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="7" stdDeviation="5" flood-color="#012b22" flood-opacity=".38"/></filter>
+  </defs>
+  <rect x="18" y="18" width="476" height="476" rx="96" fill="url(#emerald)"/>
+  <rect x="21" y="21" width="470" height="470" rx="93" fill="none" stroke="url(#edge)" stroke-width="3"/>
+  <g filter="url(#depth)">
+    <path d="M124 83h155l64 64v195c0 15-12 27-27 27H124c-15 0-27-12-27-27V110c0-15 12-27 27-27Z" fill="url(#paper)" stroke="#fff8e5" stroke-width="2"/>
+    <path d="M279 83v43c0 13 9 22 22 22h42Z" fill="url(#goldTop)" stroke="#fff0bd" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="121" y="126" width="73" height="66" rx="8" fill="#0a5745"/>
+    <rect x="210" y="141" width="93" height="12" rx="6" fill="#0a5745"/>
+    <rect x="210" y="166" width="78" height="12" rx="6" fill="#0a5745"/>
+    <rect x="162" y="218" width="45" height="20" rx="7" fill="url(#rim)" stroke="#ffe8b1" stroke-width="2"/>
+    <path d="M162 238h69l18-26c5-7 12-11 20-11h43c9 0 16 4 21 11l18 26h44c17 0 30 13 30 30v120c0 17-13 30-30 30H162c-17 0-30-13-30-30V268c0-17 13-30 30-30Z" fill="url(#gold)" stroke="#f7d894" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M149 268c0-8 6-14 14-14h76l21-30c2-3 6-5 10-5h41c4 0 8 2 10 5l21 30h52c8 0 14 6 14 14" fill="none" stroke="#ffedbb" stroke-opacity=".68" stroke-width="3" stroke-linecap="round"/>
+    <path d="M134 283h290" stroke="#976824" stroke-opacity=".32" stroke-width="2"/>
+    <rect x="371" y="255" width="27" height="14" rx="7" fill="url(#goldTop)" stroke="#fff0c7" stroke-width="2"/>
+    <circle cx="281" cy="326" r="80" fill="#976a29"/>
+    <circle cx="281" cy="323" r="79" fill="url(#rim)" stroke="#ffedb9" stroke-width="2"/>
+    <circle cx="281" cy="323" r="68" fill="url(#lens)" stroke="#063c30" stroke-width="3"/>
+    <circle cx="281" cy="323" r="59" fill="none" stroke="#70c5a4" stroke-opacity=".52" stroke-width="2"/>
+    <circle cx="281" cy="323" r="52" fill="url(#glass)" stroke="#002c24" stroke-width="2"/>
+    <circle cx="281" cy="323" r="35" fill="none" stroke="#318d71" stroke-opacity=".48" stroke-width="3"/>
+    <circle cx="281" cy="323" r="18" fill="#032a23"/>
+    <path d="M232 300a54 54 0 0 1 56-29l-17 27a26 26 0 0 0-25 14Z" fill="url(#glint)"/>
+    <path d="M246 373a61 61 0 0 0 65-5" fill="none" stroke="#45ae8c" stroke-opacity=".32" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
