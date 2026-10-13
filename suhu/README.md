@@ -2,9 +2,9 @@
 
 Buildless, static Indonesian homepage/privacy/terms for SUHU — Super Humas.
 
-The support contact is enochi3317@gmail.com, reused from Glacia at the user's request. Brand assets are copied from the current SUHU SVG and its local Inter font; the font license is included. The website uses no client scripts, analytics, external font service, Google login widget or office data.
+The support contact is 1412reyza@gmail.com, confirmed specifically for SUHU by the user on 13 October 2026. Brand assets are copied from the current SUHU SVG and its local Inter font; the font license is included. The website uses no client scripts, analytics, external font service, Google login widget or office data.
 
-Proposed publication is a new `suhu/` directory in the existing Enochidesu/Enochidesu.github.io root site: https://enochidesu.github.io/suhu/ . Existing root/Glacia pages and the Google ownership proof must be preserved. This is a planned URL until a deployment is verified, not a claim of live publication.
+The website is published in the `suhu/` directory of the existing Enochidesu/Enochidesu.github.io root site: https://enochidesu.github.io/suhu/ . Existing root/Glacia pages and the Google ownership proof are preserved. Website publication does not establish Google OAuth verification or public app availability.
 
 Publish only this directory's allowlisted public files. Never publish App, private checkpoint ZIPs, Google client configuration, signing keys, tokens, OS profiles, local journals, notification records or Website-Review. Home/privacy/terms currently state that public app access is still being prepared. There is no installer download link; do not add one until the corresponding app release is approved and publicly verified.
 
